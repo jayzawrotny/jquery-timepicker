@@ -18,7 +18,7 @@
 	"description": "A jQuery timepicker plugin inspired by Google Calendar. It supports both mouse and keyboard navigation.",
 	"keywords": [ "timepicker", "time", "picker", "ui", "google calendar" ],
 	"homepage": "http://jonthornton.github.com/jquery-timepicker/",
-	"main": "jquery.timepicker.js"
+	"main": "jquery.timepicker.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
