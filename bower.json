@@ -1,6 +1,6 @@
 {
     "name"         : "jt.timepicker",
-    "version"      : "1.4.14",
+    "version"      : "1.7.0",
     "description"  : "A jQuery timepicker plugin inspired by Google Calendar.",
     "homepage"     : "http://jonthornton.github.com/jquery-timepicker",
     "main"         : [ "./index.js", "./jquery.timepicker.css" ],
